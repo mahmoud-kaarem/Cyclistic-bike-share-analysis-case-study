@@ -1,0 +1,3 @@
+average ride length : 0:14:47
+max ride length : 24:56:00
+mode day of week : 4 (Wednesday)
